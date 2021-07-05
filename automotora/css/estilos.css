@@ -1,0 +1,29 @@
+.jumbotron{
+    background-color: slategrey;
+}
+
+.jumbotron h1{
+    font-size: bold;
+    
+}
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: slategrey;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+footer a{
+    color: white;
+}
+
+.card-motors{
+    flex: 1 150px;
+    padding: 2px 5px 2px 5px;
+    margin: 10px;
+}
+
+.btn-reserva{
+    width: 100
+}
